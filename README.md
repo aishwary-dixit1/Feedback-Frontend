@@ -74,9 +74,10 @@ npm install
 
 ### Add environment variable
 #### Create a .env file
-```bash
+```.env
 VITE_API_BASE_URL=https://your-backend-url.onrender.com
 ```
+You can also use `https://feedback-backend-816t.onrender.com` as your backend base url.
 
 ### Run locally
 ```bash
